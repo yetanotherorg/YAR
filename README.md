@@ -1,2 +1,1 @@
-# Now this is better and bold.
-## This is a test repo for the webinar.
+# DTU Session on Git and GitHub
